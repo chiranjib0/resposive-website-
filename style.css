@@ -380,6 +380,11 @@ width: 100px;
     background-image: none;
   }
   
+   #sideNav {
+    width: 150px;
+    right: -150px; 
+  }
+  
  #header .line1 {
     margin-top: 40px;
     
