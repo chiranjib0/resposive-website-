@@ -380,7 +380,10 @@ width: 100px;
     background-image: none;
   }
   
-
+ #header .line1 {
+    margin-top: 40px;
+    
+  }
 
 .container {
   margin-left: 50px;
