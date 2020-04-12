@@ -479,5 +479,13 @@ h1{
 
   .link-title{
     flex-basis: 50%;
-
   }
+  .link-title h4{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    }
+  
+   .footer-logo img{
+      width: 70px;
+      
+      }
